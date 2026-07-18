@@ -1,0 +1,14 @@
+# EasyEDA Pro
+*.epro2.bak
+*.epro2.bak.*
+
+# 系统文件
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# 临时文件
+*.tmp
+*.swp
+*.swo
+*~

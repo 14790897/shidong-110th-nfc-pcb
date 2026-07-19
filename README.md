@@ -1,7 +1,7 @@
 # 市东中学110周年NFC纪念卡 PCB
 
 上海市市东中学（上海市市东实验学校）110周年校庆 NFC 纪念卡 PCB 设计。
-
+<iframe src="//player.bilibili.com/player.html?isOutside=true&aid=116941758922837&bvid=BV1miKN6yEpE&cid=40079133967&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
 ## 项目简介
 
 本项目为市东中学 110 周年校庆设计的 NFC 纪念卡电路板。使用立创 EDA 专业版（EasyEDA Pro）进行设计。

@@ -15,30 +15,14 @@ https://github.com/user-attachments/assets/d230654b-1e45-41c2-8e9a-1083c650a9f8
 
 | 文件/目录 | 说明 |
 |---|---|
-| `ProPrj_市东中学110周年NFC纪念卡_2026-07-19.epro2` | EasyEDA Pro 工程文件 |
-| `PCB_PCB1_2026-07-19.pdf` | PCB 布局预览图 |
-| `Gerber_PCB1_2026-07-19/` | Gerber 制造文件（可直接用于 PCB 打样） |
+| `ProPrj_市东中学110周年NFC纪念卡_2026-10-17.epro2` | EasyEDA Pro 工程文件 |
+| `PCB_PCB1_2026-07-19.pdf` | PCB 布局预览图（⚠️ 2026-07-19 旧版，待重新导出） |
 
-### Gerber 文件列表
-
-- `Gerber_TopLayer.GTL` — 顶层铜层
-- `Gerber_BottomLayer.GBL` — 底层铜层
-- `Gerber_TopSilkscreenLayer.GTO` — 顶层丝印
-- `Gerber_BottomSilkscreenLayer.GBO` — 底层丝印
-- `Gerber_TopSolderMaskLayer.GTS` — 顶层阻焊
-- `Gerber_BottomSolderMaskLayer.GBS` — 底层阻焊
-- `Gerber_TopPasteMaskLayer.GTP` — 顶层钢网
-- `Gerber_BoardOutlineLayer.GKO` — 边框层
-- `Gerber_DocumentLayer.GDL` — 文档层
-- `Gerber_DrillDrawingLayer.GDD` — 钻孔图
-- `Drill_PTH_Through.DRL` — 通孔钻孔文件
-- `Drill_PTH_Through_Via.DRL` — 过孔钻孔文件
-- `FlyingProbeTesting.json` — 飞针测试配置
-- `PCB下单必读.txt` — PCB 下单指南
+> ⚠️ **注意**：工程文件已于 2026-10-17 更新，上述 PDF 预览图仍是 2026-07-19 旧版。**下单打样前请在立创 EDA 专业版中打开工程文件导出 Gerber**，PDF 预览图也建议一并重新导出。
 
 ## PCB 下单
 
-Gerber 文件可直接用于 PCB 打样，详见 [立创 EDA 专业版 PCB 下单指南](https://prodocs.lceda.cn/cn/pcb/order-order-pcb/index.html)。
+在立创 EDA 专业版中打开工程文件，导出 Gerber 后即可打样，详见 [立创 EDA 专业版 PCB 下单指南](https://prodocs.lceda.cn/cn/pcb/order-order-pcb/index.html)。
 
 ## 设计工具
 
